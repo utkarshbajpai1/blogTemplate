@@ -1,0 +1,63 @@
+.wrap{
+width:600px;
+height:500px;
+margin:auto;	
+}
+
+img{
+	width:150px;
+	height:150px;
+	float:left;
+}
+
+.wrap .main ul li{
+	list-style:none;
+	display:inline;	
+	font-family:verdana;
+	font-size:15px;
+}
+
+ul li a{
+	color:grey;
+	text-decoration:none;
+}
+
+
+.wrap .main p a{
+	color:green;
+}
+
+
+.wrap .main p a:hover{
+	color:darkgray;
+}
+
+.wrap .main #bottom a{
+	color:brown;
+}
+
+.wrap .main #bottom {
+	color:brown;
+}
+
+a{
+	text-decoration:none;
+	
+}
+.wrap .main a{
+	color:lightgray;
+}
+
+
+.wrap .main a:hover{
+	color:darkgray;
+}
+
+h1{
+	letter-spacing:-1px;
+	line-height:27px;
+}
+
+#para{
+	background-color:lightgray;
+}
